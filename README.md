@@ -24,7 +24,7 @@
 - STACKS
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
-    | 1 | Min Stack| Medium | - |- |
+    | 1 | [Min Stack](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/MinStack.java)| Medium | - |- |
     |2|[Passing Game](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/PassingGame.java)|||
     |3|[Sort stack using another stack](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/SortStackUsingAnotherStack.java)|||
     |4|[Maximum Frequency stack](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/MaximumFrequencyStack.java)|Medium|maintain list of stack with frequency|O(n)|
