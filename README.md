@@ -32,8 +32,8 @@
     |6|[Balanced Paranthesis](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/BalancedParanthesis.java)|
     |7|All Subarrays|||
     |8|[Check two bracket expressions](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/CheckTwoBracketExpressions.java)|||
-    |9||||
-    |10|||
+    |9|[EvaluateTheExpression](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/EvaluateTheExpression.java)|||
+    |10|[Largest Rectangle in Histogram](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/LargestRectangleInHistogram.java)||
     |11|||
     |12|||
     |13|||
