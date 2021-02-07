@@ -2,7 +2,7 @@
 # Topics
 -  Arrays
 - Maths
-- Bit Manupulation
+- Bit Manipulation
 - Searching
 - Recursion
 - Backtracking
@@ -24,19 +24,23 @@
 - STACKS
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
-    | 1 | [Min Stack](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/MinStack.java)| Medium | - |- |
-    |2|[Passing Game](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/PassingGame.java)|||
-    |3|[Sort stack using another stack](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/SortStackUsingAnotherStack.java)|||
-    |4|[Maximum Frequency stack](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/MaximumFrequencyStack.java)|Medium|maintain list of stack with frequency|O(n)|
-    |5|	[Redundant Braces](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/RedundantBraces.java)|Easy|-|-|
-    |6|[Balanced Paranthesis](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/BalancedParanthesis.java)|
+    | 1 | [Min Stack](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/MinStack.java)| Medium | - |- |
+    |2|[Passing Game](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/PassingGame.java)|||
+    |3|[Sort stack using another stack](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/SortStackUsingAnotherStack.java)|||
+    |4|[Maximum Frequency stack](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/MaximumFrequencyStack.java)|Medium|maintain list of stack with frequency|O(n)|
+    |5|	[Redundant Braces](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/RedundantBraces.java)|Easy|-|-|
+    |6|[Balanced Paranthesis](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/BalancedParanthesis.java)|
     |7|All Subarrays|||
-    |8|[Check two bracket expressions](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/CheckTwoBracketExpressions.java)|||
-    |9|[EvaluateTheExpression](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/EvaluateTheExpression.java)|||
-    |10|[Largest Rectangle in Histogram](https://github.com/Ashar786/ProblemSolving/blob/master/Stack/Stacks/LargestRectangleInHistogram.java)||
+    |8|[Check two bracket expressions](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/CheckTwoBracketExpressions.java)|||
+    |9|[EvaluateTheExpression](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/EvaluateTheExpression.java)|||
+    |10|[Largest Rectangle in Histogram](https://github.com/Ashar786/ProblemSolving/blob/master/stacks/LargestRectangleInHistogram.java)||
     |11|||
     |12|||
     |13|||
     |14|||||
     |15|||||
     |16|||||
+- QUEUES
+    |S.no| Question | Difficulty | Solution| Time Complexity|
+    | ------ | ------ |------ |------ |------ |
+    | 1 | [Sliding Window Maximum](https://github.com/Ashar786/ProblemSolving/blob/master/Queues/SlidingWindowMaximum.java)| Medium | - |- |
