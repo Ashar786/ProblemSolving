@@ -21,6 +21,12 @@
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
     | Dropbox | Test|
+
+- String Algorithm
+
+     |S.no| Question | Difficulty | Solution| Time Complexity|
+    | ------ | ------ |------ |------ |------ |
+    | 1 | [Vowel it](https://github.com/Ashar786/ProblemSolving/blob/master/String Algorithm/Vowelit.java)| Medium | - |- |
 - STACKS
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
@@ -44,3 +50,4 @@
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
     | 1 | [Sliding Window Maximum](https://github.com/Ashar786/ProblemSolving/blob/master/Queues/SlidingWindowMaximum.java)| Medium | - |- |
+
