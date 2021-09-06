@@ -21,7 +21,7 @@
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
     | Dropbox | Test|
-- Recursion
+- Recursion & Backtracking
      |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
     |1| Suduko||||
