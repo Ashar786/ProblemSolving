@@ -21,6 +21,24 @@
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
     | Dropbox | Test|
+- Recursion
+     |S.no| Question | Difficulty | Solution| Time Complexity|
+    | ------ | ------ |------ |------ |------ |
+    |1| Suduko||||
+    |2| GrayCode|Medium|
+    |3|Sixlets||||
+    |4|AnotherSeqProp||||
+    |5|LetterPhone||||
+    |6|Number of squarefull array||||
+    |7|Min swap to arrange pairs||||
+    |8|Combination sum||||
+    |9|Generate all paranthesis||||
+    |10|N queens||||
+    |11|Palindrome partitioning||||
+    |12|Unique path 3||||
+    |13|Combination Sum 2||||
+    |14|Remove invalid paranthesis||||
+    |15|Vertical & Horizontal sums||||
 
 - String Algorithm
 
@@ -54,4 +72,4 @@
 - LinkedList
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
-    | 1 | [K reverse linked list](https://github.com/Ashar786/ProblemSolving/blob/master/LinkedList/KRevereLinkedList.java)| Medium | - |- |
+    | 1 | [K reverse linked list](https://github.com/Ashar786/ProblemSolving/blob/master/LinkedList/KReverseLinkedList.java)| Medium | - |- |
