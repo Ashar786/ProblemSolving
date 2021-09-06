@@ -20,7 +20,29 @@
 - ARRAYS
     |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
-    | Dropbox | Test|
+    |1|Smaller & Greater||||
+    |2|Elemnt having atleast 2 . element||||
+    |3|Min picks||||
+    |4|Pattern Printing 1||||
+    |5|Inversion count in an Array||||
+    |6|Max unsorted subArray||||
+    |7|Array With consicutive element||||
+    |8|Min abs diff||||
+    |9|Reverse Pair||||
+    |10|Largest Number||||
+    |11|Sum the diff||||
+    |12|Game of bottles||||
+    |13|Max_min magic||||
+    |14|Largest number||||
+    |15|Max_mod||||
+    |16|unique element||||
+    |17|Max chunk to make sorted||||
+    |18|Min swap 2||||
+    |19|Count of smaller number after self||||
+    |20|Reverse pairs||||
+    |21|Inversion count in an Array||||
+    |22|Pair sum divisible by M||||
+   
 - Recursion & Backtracking
      |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
