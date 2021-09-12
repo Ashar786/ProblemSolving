@@ -42,7 +42,53 @@
     |20|Reverse pairs||||
     |21|Inversion count in an Array||||
     |22|Pair sum divisible by M||||
-   
+
+- Math
+    |S.no| Question | Difficulty | Solution| Time Complexity|
+    | ------ | ------ |------ |------ |------ |
+    |1|Maximum height of staircase||||
+    |2|A, B and Modulo||||
+    |3|Very Large Power||||
+    |4|Prime Modulo Inverse||||
+    |5|Compute nCr % m||||
+
+- Bit Manipulation
+    |S.no| Question | Difficulty | Solution| Time Complexity|
+    | ------ | ------ |------ |------ |------ |
+    |1|Reverse Bits||||
+    |2|Single Number||||
+    |3|Different Bits Sum Pairwise||||
+    |4|Min XOR value||||
+    |5|Single Number III||||
+    |6|Divide Integers||||
+    |7|Single Number II||||
+    |8|Strange Equality||||
+    |9|Interesting Array||||
+    |10|Single Number||||
+    |11|Single Number II||||
+    |12|Number of 1 Bits||||
+    |13|Reverse Bits||||
+    |14|Count Total Set Bits||||
+
+- Searching
+     |S.no| Question | Difficulty | Solution| Time Complexity|
+    | ------ | ------ |------ |------ |------ |
+    |1|Rotated Sorted Array Search||||
+    |2|Sorted Insert Position||||
+    |3|Single Element in a Sorted Array||||
+    |4|Find a peak element||||
+    |5|Matrix Search||||
+    |6|Special Integer||||
+    |7|Allocate Books||||
+    |8|Painter's Partition Problem||||
+    |9|Aggressive cows||||
+    |10|Smallest Good Base||||
+    |11|Special Integer||||
+    |12|Ath Magical Number||||
+    |13|Square Root of Integer||||
+    |14|Painter's Partition Problem||||
+    |15|Kth Smallest Element||||
+
 - Recursion & Backtracking
      |S.no| Question | Difficulty | Solution| Time Complexity|
     | ------ | ------ |------ |------ |------ |
@@ -61,6 +107,20 @@
     |13|Combination Sum 2||||
     |14|Remove invalid paranthesis||||
     |15|Vertical & Horizontal sums||||
+
+- Two Pointers
+    |S.no| Question | Difficulty | Solution| Time Complexity|
+    | ------ | ------ |------ |------ |------ |
+    |1|3 Sum||||
+    |2|Container With Most Water||||
+    |3|Another Count Rectangles||||
+    |4|Subarray with given sum||||
+    |5|Pairs with given sum II||||
+    |6|Array 3 Pointers||||
+    |7|Max Continuous Series of 1s||||
+    |8|Count Subarrays||||
+    |9|Closest pair from sorted arrays||||
+    |10|Merge Two Sorted Arrays||||
 
 - String Algorithm
 
