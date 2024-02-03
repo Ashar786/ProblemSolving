@@ -1,20 +1,24 @@
 # Problem Solving Questions Solutions
-# Topics
--  Arrays
-- Maths
-- Bit Manipulation
-- Searching
-- Recursion
-- Backtracking
-- Sorting
-- Two pointers
-- Hashing
-- String Algorithm
-- Stacks
-- Queues
-- Linked List
-- Trees
-- BST
+
+This repository contains solutions to Most Famous DSA questions, organized topic-wise with difficulty levels, solutions, and time complexity analysis.
+
+## Table of Contents
+
+1. [Arrays](#arrays)
+2. [Maths](#maths)
+3. [Bit Manipulation](#bit-manipulation)
+4. [Searching](#searching)
+5. [Recursion](#recursion)
+6. [Backtracking](#backtracking)
+7. [Sorting](#sorting)
+8. [Two Pointers](#two-pointers)
+9. [Hashing](#hashing)
+10. [String Algorithm](#string-algorithm)
+11. [Stacks](#stacks)
+12. [Queues](#queues)
+13. [Linked List](#linked-list)
+14. [Trees](#trees)
+15. [Binary Search Tree (BST)](#binary-search-tree-bst)
 
 # Questions
 - ARRAYS
